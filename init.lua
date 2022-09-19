@@ -5,4 +5,4 @@ require "jbpros.colorscheme"
 require "jbpros.cmp"
 require "jbpros.lsp"
 require "jbpros.telescope"
-
+require "jbpros.treesitter"

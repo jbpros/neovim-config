@@ -4,4 +4,5 @@ require "jbpros.plugins"
 require "jbpros.colorscheme"
 require "jbpros.cmp"
 require "jbpros.lsp"
+require "jbpros.telescope"
 

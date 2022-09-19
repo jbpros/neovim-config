@@ -30,3 +30,19 @@ Leader key: <Space>
 
 <Space>e: Open Lexplorer
 
+### Lexplorer
+
+<p> preview file
+<C-W_z> close preview
+
+### LSP
+
+    <g r>: Get references to symbol
+
+### Telescope
+
+Get references to symbol:
+
+    :Telescope lsp_references
+
+Check out git-stuff.

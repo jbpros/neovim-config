@@ -38,6 +38,7 @@ Leader key: <Space>
 ### LSP
 
     <g r>: Get references to symbol
+    <g l>: Get error info
 
 ### Telescope
 
@@ -46,3 +47,7 @@ Get references to symbol:
     :Telescope lsp_references
 
 Check out git-stuff.
+
+### Autopairs
+
+<M-e>: fast wrap

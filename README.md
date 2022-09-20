@@ -1,5 +1,7 @@
 # Neovim setup
 
+Heavily inspired by [Christian Chiarulli's series](https://github.com/LunarVim/Neovim-from-scratch). Also see the [YouTube playlist](https://www.youtube.com/playlist?list=PLhoH5vyxr6Qq41NFL4GvhFp-WLd5xzIzZ).
+
 ## Install
 
 - Setup some [nerd fonts](https://www.nerdfonts.com/) and use one in your terminal.

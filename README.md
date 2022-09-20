@@ -5,6 +5,7 @@ Heavily inspired by [Christian Chiarulli's series](https://github.com/LunarVim/N
 ## Install
 
 - Setup some [nerd fonts](https://www.nerdfonts.com/) and use one in your terminal.
+- Clone the repository to `~/.config/nvim`.
 
 ### LSP
 

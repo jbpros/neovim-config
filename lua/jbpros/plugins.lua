@@ -45,6 +45,8 @@ return packer.startup(function(use)
   use "nvim-lua/plenary.nvim" -- Useful lua functions used by lots of plugins
   use "lunarvim/colorschemes"
   use "numToStr/Comment.nvim"
+  use "kyazdani42/nvim-web-devicons"
+  use "kyazdani42/nvim-tree.lua"
 
   -- cmp plugins
   use "hrsh7th/nvim-cmp" -- The completion plugin
@@ -73,7 +75,7 @@ return packer.startup(function(use)
     run = ":TSUpdate",
   }
   use "p00f/nvim-ts-rainbow"
-  use 'JoosepAlviste/nvim-ts-context-commentstring'
+  use "JoosepAlviste/nvim-ts-context-commentstring"
 
   -- Git
   use "lewis6991/gitsigns.nvim"

@@ -17,31 +17,31 @@ Heavily inspired by [Christian Chiarulli's series](https://github.com/LunarVim/N
 
 ### Windows
 
-&gt;C-h>: move to window on the left
-&gt;C-m>: move to window on the right
-&gt;C-k>: move to window below
-&gt;C-l>: move to window above
+&lt;C-h>: move to window on the left
+&lt;C-m>: move to window on the right
+&lt;C-k>: move to window below
+&lt;C-l>: move to window above
 
 ### Buffers
 
-&gt;S-l>: next buffer
-&gt;S-h>: previous buffer
+&lt;S-l>: next buffer
+&lt;S-h>: previous buffer
 
 ### Leaders
 
-Leader key: &gt;Space>
+Leader key: &lt;Space>
 
-&gt;Space>e: Open Lexplorer
+&lt;Space>e: Open Lexplorer
 
 ### Lexplorer
 
-&gt;p> preview file
-&gt;C-W_z> close preview
+&lt;p> preview file
+&lt;C-W_z> close preview
 
 ### LSP
 
-    &gt;g r>: Get references to symbol
-    &gt;g l>: Get error info
+    &lt;g r>: Get references to symbol
+    &lt;g l>: Get error info
 
 ### Telescope
 
@@ -53,4 +53,4 @@ Check out git-stuff.
 
 ### Autopairs
 
-&gt;M-e>: fast wrap
+&lt;M-e>: fast wrap
